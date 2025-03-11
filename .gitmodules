@@ -1,0 +1,4 @@
+[submodule "vsf/src/storefront-ui"]
+	path = vsf/src/storefront-ui
+	url = https://github.com/erpgap/storefront-ui.git
+	branch = main
